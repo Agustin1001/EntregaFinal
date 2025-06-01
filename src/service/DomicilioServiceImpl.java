@@ -1,4 +1,4 @@
-pacpackage service;
+package service;
 
 import config.TransactionManager;
 import dao.GenericDAO;
